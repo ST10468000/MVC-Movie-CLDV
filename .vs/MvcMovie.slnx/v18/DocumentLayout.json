@@ -54,8 +54,7 @@
               "RelativeToolTip": "MvcMovie\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-18T10:11:02.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T10:11:02.534Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "MvcMovie\\Migrations\\20260218095848_InitialCreate.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T09:58:49.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T09:58:49.363Z"
             },
             {
               "$type": "Document",
@@ -78,7 +76,7 @@
               "RelativeDocumentMoniker": "MvcMovie\\Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\MVC-Movie-CLDV\\MvcMovie\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "MvcMovie\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T07:50:17.582Z",
               "EditorCaption": ""
